@@ -1,3 +1,6 @@
+> **Team subsystem archive:** this fork preserves Raspberry Pi setup and runtime orchestration from an NTU Multidisciplinary Design Project. Upstream team authorship and commit history are intentionally retained.
+
+
 # MDP Raspberry Pi
 
 Codebase for setting up the Raspberry PI and main running logic.
